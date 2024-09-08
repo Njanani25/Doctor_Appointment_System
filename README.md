@@ -1,8 +1,8 @@
 # Doctor_Appointment_System
 
-Frontend: HTML, CSS, and JavaScript for the user interface.
+**Frontend**: HTML, CSS, and JavaScript for the user interface.
 
-Backend: Python with Django frameworks.
+**Backend**: Python with Django framework.
 
 In this application, patients can:
 
@@ -10,7 +10,6 @@ In this application, patients can:
 2. Choose their preferred doctor.
 
 **snapshots**
-
 ![Screenshot 2024-09-08 111121](https://github.com/user-attachments/assets/f7c6c183-66e5-4ae3-871f-800f3c3aa683)
 
 Login and signup are available.If you are new you can signup otherwise you can login with mail_id and password
